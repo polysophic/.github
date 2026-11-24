@@ -1,5 +1,13 @@
-# Polysophic organization metadata
+# Polysophic — Public Profile
 
-This repository owns the intentionally public GitHub organization profile and other public organization-level metadata for Polysophic.
+This repository maintains the public GitHub profile and approved public-facing resources for Polysophic.
 
-Product implementation and canonical product documentation live in the private `web` repository. Organization-wide private governance lives in `.github-private`.
+## Repository Structure
+
+- [`profile/README.md`](profile/README.md): Public organization profile.
+- `assets/`: Public branding and supporting visual resources, when applicable.
+
+## Organization
+
+- [GitHub Organization](https://github.com/polysophic)
+- [Organization Profile](profile/README.md)
